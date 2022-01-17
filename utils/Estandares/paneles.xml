@@ -1,0 +1,25 @@
+<!--<?xml version="1.0" encoding="UTF-8"?> -->
+<paneles>
+<panel id="panel_left" width="80%" height="100%" hijo="vertical" fondo="#0f08">
+  <panel id="panel_top_right1" width="100%" height="15%" hijo="center"
+    fondo="#00f8">
+  </panel>
+  <panel id="panel_top_right2" width="100%" height="15%" hijo="center"
+    fondo="#44f8">
+  </panel>
+  <panel id="panel_bot_right" width="100%" height="70%" valign="center" fondo="#88f8">
+  </panel>
+</panel>
+
+<panel id="panel_riht" width="80%" height="100%" hijo="vertical" fondo="#0f08">
+  <panel id="panel_top_right1" width="100%" height="15%" hijo="center"
+    fondo="#00f8">
+  </panel>
+  <panel id="panel_top_right2" width="100%" height="15%" hijo="center"
+    fondo="#44f8">
+  </panel>
+  <panel id="panel_bot_right" width="100%" height="70%" valign="center" fondo="#88f8">
+  </panel>
+</panel>
+</paneles>
+
