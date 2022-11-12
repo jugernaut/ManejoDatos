@@ -1,0 +1,50 @@
+La capacidad de las máquinas para aprender está presente en muchos aspectos de la vida cotidiana. 
+Por ello, el ‘machine learning’ está detrás de las recomendaciones de películas en plataformas digitales, 
+del reconocimiento por voz de los asistentes virtuales o la capacidad de los coches autónomos para ver la carretera. 
+Sin embargo, el origen de esta disciplina data de varias décadas atrás. Entonces: ¿por qué ahora es tan importante 
+esta tecnología y qué la hace tan revolucionaria?.
+
+El ‘machine learning’ –aprendizaje automático– es una rama de la inteligencia artificial que permite que las 
+máquinas aprendan sin ser expresamente programadas para ello. Una habilidad indispensable para hacer sistemas 
+capaces de identificar patrones entre los datos para hacer predicciones. Esta tecnología está presente en un 
+sinfín de aplicaciones como las recomendaciones de Netflix o Spotify, las respuestas inteligentes de Gmail o el 
+habla de Siri y Alexa.
+
+INNOVACIÓN
+
+¿Cómo aprende un 'chatbot' a resolver una incidencia?
+
+Las herramientas de procesamiento de lenguaje natural (PLN) y la inteligencia artificial tienen un uso cada vez más 
+enfocado a los negocios. En el sector bancario, por ejemplo, las encontramos detrás de los ‘chatbots’ o asistentes 
+virtuales. Estos robots han sido entrenados en el lenguaje para entender las dudas de los clientes y mantener una 
+conversación natural.
+“En definitiva, el ‘machine learning’ es un maestro del reconocimiento de patrones, y es capaz de convertir una muestra 
+de datos en un programa informático capaz de extraer inferencias de nuevos conjuntos de datos para los que no ha sido 
+entrenado previamente”, explica José Luis Espinoza, científico de datos de BBVA México. Esta capacidad de aprendizaje 
+se emplea también para la mejora de motores de búsqueda, la robótica, el diagnóstico médico o incluso la detección 
+del fraude en el uso de tarjetas de crédito.
+
+Aunque ahora esté de moda, gracias a su capacidad para derrotar a jugadores del Go o resolver cubos de Rubik, 
+su origen se remonta al siglo pasado. “La estadística es sin duda la base fundamental del aprendizaje automático, 
+que básicamente consiste en una serie de algoritmos capaces de analizar grandes cantidades de datos para deducir 
+cuál es el resultado más óptimo para un determinado problema”, añade Espinoza.
+
+Hay que remontarse al siglo XIX para encontrar algunos de los hitos matemáticos que sentaron las bases de esta 
+tecnología. El teorema de Bayes (1812) definió la probabilidad de que un evento ocurra basándose en el conocimiento 
+de las condiciones previas que pudieran estar relacionadas con dicho evento.
+
+Años después (en la década de 1940) otra serie de científicos sentaron las bases de la programación informática: 
+capaz de traducir una serie de instrucciones en acciones ejecutables por un ordenador. Estos precedentes hicieron 
+posible que en 1950 el matemático Alan Turing plantease por primera vez la pregunta de si es posible que las máquinas 
+puedan pensar, con la que plantó la semilla de la creación de computadoras de ‘inteligencia artificial’. 
+Computadoras capaces de replicar de forma autónoma tareas típicamente humanas, como la escritura o el reconocimiento 
+de imágenes.
+
+Fue un poco más adelante, entre las décadas de 1950 y 1960, cuando distintos científicos empezaron investigar cómo 
+aplicar la biología de las redes neuronales del cerebro humano para tratar de crear las primeras máquinas inteligentes. 
+La idea derivó en la creación de las redes neuronales artificiales, un modelo computacional inspirado en la forma en 
+que las neuronas transmiten la información entre ellas a través de una red de nodos interconectados. 
+Uno de los primeros experimentos en este sentido lo realizaron Marvin Minksy y Dean Edmonds, 
+científicos del Instituto Tecnológico de Massachussets (MIT). Ambos lograron crear un programa informático 
+capaz de aprender de la experiencia para salir de un laberinto.
+
